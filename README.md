@@ -2,7 +2,7 @@
 
 Análise de apresentações(strings) de medicamentos baseado em PLN (Processamento de Linguagem Natural).
 
-PhamarcIA utiliza a biblioteca Spcy para a classificação das apresentações dos medicametos. Esta biblioteca é utilizada para processamento avançado de linguagem natural.
+PhamarcIA utiliza a biblioteca Spacy para a classificação das apresentações dos medicametos. Esta biblioteca é utilizada para processamento avançado de linguagem natural.
 
 Apresentação de um medicamento é um termo técnico para desgnar uma string que contem informações relativas ao medicamento. Neste projeto as informações que serão extraidas serão do texto serão: o nome do fabricante, o nome do medicamento, a concentração, a forma (comprimido, solução oral, etc.) e a quantidade. Outras informações não são de importãncia para a classificação.
 A seguir temos um exemplo de uma apresentação de medicamento:
